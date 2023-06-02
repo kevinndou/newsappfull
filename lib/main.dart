@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter News App',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.purple),
         useMaterial3: true,
       ),
       home:  NewsPage(),

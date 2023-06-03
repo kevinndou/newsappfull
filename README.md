@@ -1,3 +1,5 @@
+![newsapp](https://github.com/Kevinndou15/newsappfull/assets/111686025/e0ba4f9f-2899-47c1-ac22-172b908202a9)
+
 # newsappfull
 
 Flutter app using Newapi.org

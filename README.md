@@ -1,6 +1,10 @@
 # newsappfull
 
-A new Flutter project.
+Flutter app using Newapi.org
+
+Go to Newsapi.org to generate your api key.
+
+go to your news_api.dart file and replace every part of the links written "API_KEY" with your actual key from Newsapi.org
 
 ## Getting Started
 
